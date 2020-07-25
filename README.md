@@ -1,6 +1,6 @@
 # PageRankingAlgorithm
 
-Algorithm utilized to rank the websitesin the search engine. Pageranking can be describe as the way of measuring the importance of website.
+Algorithm utilized to rank the websites in the search engine. Pageranking can be described as the way of measuring the importance of the website.
 
 # Disclaimer
 **This project was solely built for the learning puropse and hence does not hold any commercial value.**
