@@ -1,5 +1,7 @@
 # PageRankingAlgorithm
 
+Algorithm utilized to rank the websitesin the search engine. Pageranking can be describe as the way of measuring the importance of website.
+
 # Disclaimer
 **This project was solely built for the learning puropse and hence does not hold any commercial value.**
 
